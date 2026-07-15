@@ -16,7 +16,7 @@ Diagnostic notebook, gap assessment, recorded explanation
 
 ## Check in
 
-The weekly check-in is created by the reminder workflow.
+[Open this week's check-in](https://github.com/samratdotm/ai-research-engineer-roadmap/issues/2)
 
 ## Daily reminders
 
