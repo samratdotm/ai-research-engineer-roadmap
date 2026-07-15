@@ -1,0 +1,95 @@
+name: Daily roadmap reminders
+
+on:
+  schedule:
+    - cron: "15 7 * * *"
+      timezone: "America/Los_Angeles"
+    - cron: "15 18 * * *"
+      timezone: "America/Los_Angeles"
+    - cron: "15 21 * * *"
+      timezone: "America/Los_Angeles"
+  workflow_dispatch:
+    inputs:
+      period:
+        description: Reminder to send
+        required: true
+        default: morning
+        type: choice
+        options:
+          - morning
+          - evening
+          - night
+      send_telegram:
+        description: Send the Telegram message
+        required: true
+        default: true
+        type: boolean
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: roadmap-state-writes
+  cancel-in-progress: false
+
+jobs:
+  remind:
+    runs-on: ubuntu-latest
+    env:
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      GH_TOKEN: ${{ github.token }}
+      GITHUB_TOKEN: ${{ github.token }}
+    steps:
+      - name: Check out roadmap
+        uses: actions/checkout@v4
+
+      - name: Select reminder period
+        id: period
+        shell: bash
+        env:
+          MANUAL_PERIOD: ${{ inputs.period }}
+        run: |
+          if [[ -n "$MANUAL_PERIOD" ]]; then
+            echo "value=$MANUAL_PERIOD" >> "$GITHUB_OUTPUT"
+          else
+            hour=$(TZ=America/Los_Angeles date +%H)
+            if (( 10#$hour < 12 )); then
+              echo "value=morning" >> "$GITHUB_OUTPUT"
+            elif (( 10#$hour < 20 )); then
+              echo "value=evening" >> "$GITHUB_OUTPUT"
+            else
+              echo "value=night" >> "$GITHUB_OUTPUT"
+            fi
+          fi
+
+      - name: Generate plan and send reminder
+        shell: bash
+        env:
+          PERIOD: ${{ steps.period.outputs.value }}
+          EVENT_NAME: ${{ github.event_name }}
+          MANUAL_SEND: ${{ inputs.send_telegram }}
+        run: |
+          send_flag="--send"
+          if [[ "$EVENT_NAME" == "workflow_dispatch" && "$MANUAL_SEND" != "true" ]]; then
+            send_flag=""
+          fi
+          python3 automation/roadmap_reminder.py \
+            --period "$PERIOD" \
+            --ensure-issue \
+            --write-today \
+            --sync-progress \
+            $send_flag
+
+      - name: Commit generated roadmap pages
+        shell: bash
+        run: |
+          if git diff --quiet -- TODAY.md tracking/daily-progress.md; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add TODAY.md tracking/daily-progress.md
+          git commit -m "chore: refresh roadmap today and progress"
+          git push

@@ -34,6 +34,13 @@ The goal is not to collect AI certificates or memorize vocabulary. By the end, I
 
 The detailed timeline is in [ROADMAP.md](ROADMAP.md) and the weekly checklist is in [schedule/52-weeks.md](schedule/52-weeks.md).
 
+## Start today
+
+- Open [TODAY.md](TODAY.md) for the automatically selected topic and study block.
+- Use the current weekly GitHub issue to check off completed sessions.
+- View [daily progress](tracking/daily-progress.md) for the generated completion dashboard.
+- Follow [REMINDER_SETUP.md](REMINDER_SETUP.md) to enable Telegram reminders at 7:15 AM, 6:15 PM, and 9:15 PM Pacific.
+
 ## The 10-hour weekly cadence
 
 - **2 hours - concepts:** lectures, reading, derivations, and concept notes.
@@ -66,6 +73,8 @@ A phase is complete only when all eight conditions are met:
 - [resources/](resources/) - curated required resources and research papers.
 - [templates/](templates/) - repeatable experiment, paper, model-card, and review formats.
 - [tracking/](tracking/) - progress, concept mastery, and interview-readiness checklists.
+- [TODAY.md](TODAY.md) - today's automatically selected roadmap assignment.
+- [REMINDER_SETUP.md](REMINDER_SETUP.md) - Telegram and GitHub Actions activation guide.
 - [LEARNING_RULES.md](LEARNING_RULES.md) - rules for using AI tools without outsourcing understanding.
 
 ## Current status
