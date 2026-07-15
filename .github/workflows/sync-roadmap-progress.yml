@@ -1,0 +1,41 @@
+name: Sync roadmap progress
+
+on:
+  issues:
+    types: [opened, edited, closed, reopened, labeled, unlabeled]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: read
+
+concurrency:
+  group: roadmap-state-writes
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    if: >-
+      github.event_name == 'workflow_dispatch' ||
+      contains(github.event.issue.labels.*.name, 'roadmap-progress')
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ github.token }}
+    steps:
+      - name: Check out roadmap
+        uses: actions/checkout@v4
+
+      - name: Generate dashboard
+        run: python3 automation/roadmap_reminder.py --sync-progress
+
+      - name: Commit dashboard when changed
+        shell: bash
+        run: |
+          if git diff --quiet -- tracking/daily-progress.md; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tracking/daily-progress.md
+          git commit -m "chore: sync roadmap progress"
+          git push

@@ -1,0 +1,50 @@
+{
+  "start_date": "2026-07-13",
+  "timezone": "America/Los_Angeles",
+  "reminders": {
+    "morning": "07:15",
+    "evening": "18:15",
+    "night": "21:15"
+  },
+  "phases": [
+    {"start": 1, "end": 1, "name": "Orientation and baseline"},
+    {"start": 2, "end": 6, "name": "Math, probability, statistics, and NumPy"},
+    {"start": 7, "end": 12, "name": "Classical ML and data"},
+    {"start": 13, "end": 20, "name": "Deep learning and PyTorch"},
+    {"start": 21, "end": 28, "name": "Transformers and LLM training"},
+    {"start": 29, "end": 34, "name": "Evaluations and research methodology"},
+    {"start": 35, "end": 41, "name": "RL, alignment, and post-training"},
+    {"start": 42, "end": 46, "name": "ML systems and distributed execution"},
+    {"start": 47, "end": 52, "name": "Capstone, writing, and interviews"}
+  ],
+  "cadence": {
+    "Monday": {
+      "minutes": 15,
+      "work": "Plan the week: read the focus and required evidence, then reserve the study blocks."
+    },
+    "Tuesday": {
+      "minutes": 90,
+      "work": "Concepts and derivations: learn the week's core ideas and write a concise concept note."
+    },
+    "Wednesday": {
+      "minutes": 90,
+      "work": "Guided implementation: implement the central mechanism with references available."
+    },
+    "Thursday": {
+      "minutes": 90,
+      "work": "Independent implementation: reproduce or extend the mechanism without copying."
+    },
+    "Friday": {
+      "minutes": 30,
+      "work": "Recovery and review: close a small gap or rehearse the current concept aloud."
+    },
+    "Saturday": {
+      "minutes": 180,
+      "work": "Phase project and experiment: build, test, and run one controlled comparison."
+    },
+    "Sunday": {
+      "minutes": 150,
+      "work": "Finish the project increment, write results, rehearse an interview answer, and complete the weekly review."
+    }
+  }
+}
