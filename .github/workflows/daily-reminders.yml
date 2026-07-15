@@ -43,7 +43,7 @@ jobs:
       GITHUB_TOKEN: ${{ github.token }}
     steps:
       - name: Check out roadmap
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Select reminder period
         id: period

@@ -23,7 +23,7 @@ jobs:
       GITHUB_TOKEN: ${{ github.token }}
     steps:
       - name: Check out roadmap
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Generate dashboard
         run: python3 automation/roadmap_reminder.py --sync-progress
