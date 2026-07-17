@@ -1,14 +1,14 @@
 # Today’s Roadmap
 
-**Date:** Thursday, July 16, 2026<br>
+**Date:** Friday, July 17, 2026<br>
 **Week:** 1 of 52<br>
 **Phase:** Orientation and baseline<br>
 **Weekly focus:** Vocabulary, lifecycle, baseline assessment
 
 ## Today’s session
 
-**Time:** 90 minutes<br>
-**Task:** Independent implementation: reproduce or extend the mechanism without copying.
+**Time:** 30 minutes<br>
+**Task:** Recovery and review: close a small gap or rehearse the current concept aloud.
 
 ## Required evidence this week
 
