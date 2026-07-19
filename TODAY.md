@@ -1,14 +1,14 @@
 # Today’s Roadmap
 
-**Date:** Saturday, July 18, 2026<br>
+**Date:** Sunday, July 19, 2026<br>
 **Week:** 1 of 52<br>
 **Phase:** Orientation and baseline<br>
 **Weekly focus:** Vocabulary, lifecycle, baseline assessment
 
 ## Today’s session
 
-**Time:** 180 minutes<br>
-**Task:** Phase project and experiment: build, test, and run one controlled comparison.
+**Time:** 150 minutes<br>
+**Task:** Finish the project increment, write results, rehearse an interview answer, and complete the weekly review.
 
 ## Required evidence this week
 
