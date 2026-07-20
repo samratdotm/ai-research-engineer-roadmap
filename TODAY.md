@@ -1,22 +1,22 @@
 # Today’s Roadmap
 
-**Date:** Sunday, July 19, 2026<br>
-**Week:** 1 of 52<br>
-**Phase:** Orientation and baseline<br>
-**Weekly focus:** Vocabulary, lifecycle, baseline assessment
+**Date:** Monday, July 20, 2026<br>
+**Week:** 2 of 52<br>
+**Phase:** Math, probability, statistics, and NumPy<br>
+**Weekly focus:** Vectors, matrices, shapes, broadcasting
 
 ## Today’s session
 
-**Time:** 150 minutes<br>
-**Task:** Finish the project increment, write results, rehearse an interview answer, and complete the weekly review.
+**Time:** 15 minutes<br>
+**Task:** Plan the week: read the focus and required evidence, then reserve the study blocks.
 
 ## Required evidence this week
 
-Diagnostic notebook, gap assessment, recorded explanation
+NumPy shape exercises with tests
 
 ## Check in
 
-[Open this week's check-in](https://github.com/samratdotm/ai-research-engineer-roadmap/issues/2)
+[Open this week's check-in](https://github.com/samratdotm/ai-research-engineer-roadmap/issues/4)
 
 ## Daily reminders
 
