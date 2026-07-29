@@ -1,6 +1,6 @@
 # Today’s Roadmap
 
-**Date:** Tuesday, July 28, 2026<br>
+**Date:** Wednesday, July 29, 2026<br>
 **Week:** 3 of 52<br>
 **Phase:** Math, probability, statistics, and NumPy<br>
 **Weekly focus:** Dot products, matrix multiplication, norms, projections
@@ -8,7 +8,7 @@
 ## Today’s session
 
 **Time:** 90 minutes<br>
-**Task:** Concepts and derivations: learn the week's core ideas and write a concise concept note.
+**Task:** Guided implementation: implement the central mechanism with references available.
 
 ## Required evidence this week
 
