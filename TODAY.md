@@ -1,14 +1,14 @@
 # Today’s Roadmap
 
-**Date:** Thursday, July 30, 2026<br>
+**Date:** Friday, July 31, 2026<br>
 **Week:** 3 of 52<br>
 **Phase:** Math, probability, statistics, and NumPy<br>
 **Weekly focus:** Dot products, matrix multiplication, norms, projections
 
 ## Today’s session
 
-**Time:** 90 minutes<br>
-**Task:** Independent implementation: reproduce or extend the mechanism without copying.
+**Time:** 30 minutes<br>
+**Task:** Recovery and review: close a small gap or rehearse the current concept aloud.
 
 ## Required evidence this week
 
