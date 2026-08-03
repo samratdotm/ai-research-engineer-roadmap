@@ -1,22 +1,22 @@
 # Today’s Roadmap
 
-**Date:** Sunday, August 2, 2026<br>
-**Week:** 3 of 52<br>
+**Date:** Monday, August 3, 2026<br>
+**Week:** 4 of 52<br>
 **Phase:** Math, probability, statistics, and NumPy<br>
-**Weekly focus:** Dot products, matrix multiplication, norms, projections
+**Weekly focus:** Derivatives, gradients, chain rule
 
 ## Today’s session
 
-**Time:** 150 minutes<br>
-**Task:** Finish the project increment, write results, rehearse an interview answer, and complete the weekly review.
+**Time:** 15 minutes<br>
+**Task:** Plan the week: read the focus and required evidence, then reserve the study blocks.
 
 ## Required evidence this week
 
-Linear-regression forward pass
+Finite-difference gradient checker
 
 ## Check in
 
-[Open this week's check-in](https://github.com/samratdotm/ai-research-engineer-roadmap/issues/5)
+[Open this week's check-in](https://github.com/samratdotm/ai-research-engineer-roadmap/issues/6)
 
 ## Daily reminders
 
