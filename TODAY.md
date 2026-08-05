@@ -1,6 +1,6 @@
 # Today’s Roadmap
 
-**Date:** Tuesday, August 4, 2026<br>
+**Date:** Wednesday, August 5, 2026<br>
 **Week:** 4 of 52<br>
 **Phase:** Math, probability, statistics, and NumPy<br>
 **Weekly focus:** Derivatives, gradients, chain rule
@@ -8,7 +8,7 @@
 ## Today’s session
 
 **Time:** 90 minutes<br>
-**Task:** Concepts and derivations: learn the week's core ideas and write a concise concept note.
+**Task:** Guided implementation: implement the central mechanism with references available.
 
 ## Required evidence this week
 
