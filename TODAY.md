@@ -1,6 +1,6 @@
 # Today’s Roadmap
 
-**Date:** Wednesday, August 12, 2026<br>
+**Date:** Thursday, August 13, 2026<br>
 **Week:** 5 of 52<br>
 **Phase:** Math, probability, statistics, and NumPy<br>
 **Weekly focus:** Probability, expectation, variance, sampling
@@ -8,7 +8,7 @@
 ## Today’s session
 
 **Time:** 90 minutes<br>
-**Task:** Guided implementation: implement the central mechanism with references available.
+**Task:** Independent implementation: reproduce or extend the mechanism without copying.
 
 ## Required evidence this week
 
