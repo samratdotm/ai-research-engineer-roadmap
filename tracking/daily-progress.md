@@ -2,8 +2,8 @@
 
 Automatically generated from GitHub issues labeled `roadmap-progress`.
 
-**Last activity:** 2026-08-10 08:14 Pacific<br>
-**Overall checklist completion:** 0/40 (0%)
+**Last activity:** 2026-08-17 07:41 Pacific<br>
+**Overall checklist completion:** 0/48 (0%)
 
 | Week | Focus | Completed | Progress | Status |
 |---|---|---:|---:|---|
@@ -12,6 +12,7 @@ Automatically generated from GitHub issues labeled `roadmap-progress`.
 | [Week 3](https://github.com/samratdotm/ai-research-engineer-roadmap/issues/5) | Dot products, matrix multiplication, norms, projections | 0/8 | 0% | In progress |
 | [Week 4](https://github.com/samratdotm/ai-research-engineer-roadmap/issues/6) | Derivatives, gradients, chain rule | 0/8 | 0% | In progress |
 | [Week 5](https://github.com/samratdotm/ai-research-engineer-roadmap/issues/7) | Probability, expectation, variance, sampling | 0/8 | 0% | In progress |
+| [Week 6](https://github.com/samratdotm/ai-research-engineer-roadmap/issues/8) | Confidence intervals and gradient descent | 0/8 | 0% | In progress |
 
 ## How to update progress
 
