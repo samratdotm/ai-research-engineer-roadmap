@@ -1,14 +1,14 @@
 # Today’s Roadmap
 
-**Date:** Saturday, August 22, 2026<br>
+**Date:** Sunday, August 23, 2026<br>
 **Week:** 6 of 52<br>
 **Phase:** Math, probability, statistics, and NumPy<br>
 **Weekly focus:** Confidence intervals and gradient descent
 
 ## Today’s session
 
-**Time:** 180 minutes<br>
-**Task:** Phase project and experiment: build, test, and run one controlled comparison.
+**Time:** 150 minutes<br>
+**Task:** Finish the project increment, write results, rehearse an interview answer, and complete the weekly review.
 
 ## Required evidence this week
 
