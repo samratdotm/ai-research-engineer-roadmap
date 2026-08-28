@@ -1,14 +1,14 @@
 # Today’s Roadmap
 
-**Date:** Thursday, August 27, 2026<br>
+**Date:** Friday, August 28, 2026<br>
 **Week:** 7 of 52<br>
 **Phase:** Classical ML and data<br>
 **Weekly focus:** Problem framing, targets, split design, baseline
 
 ## Today’s session
 
-**Time:** 90 minutes<br>
-**Task:** Independent implementation: reproduce or extend the mechanism without copying.
+**Time:** 30 minutes<br>
+**Task:** Recovery and review: close a small gap or rehearse the current concept aloud.
 
 ## Required evidence this week
 
