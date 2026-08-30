@@ -1,14 +1,14 @@
 # Today’s Roadmap
 
-**Date:** Saturday, August 29, 2026<br>
+**Date:** Sunday, August 30, 2026<br>
 **Week:** 7 of 52<br>
 **Phase:** Classical ML and data<br>
 **Weekly focus:** Problem framing, targets, split design, baseline
 
 ## Today’s session
 
-**Time:** 180 minutes<br>
-**Task:** Phase project and experiment: build, test, and run one controlled comparison.
+**Time:** 150 minutes<br>
+**Task:** Finish the project increment, write results, rehearse an interview answer, and complete the weekly review.
 
 ## Required evidence this week
 
