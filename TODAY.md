@@ -1,22 +1,22 @@
 # Today’s Roadmap
 
-**Date:** Sunday, August 30, 2026<br>
-**Week:** 7 of 52<br>
+**Date:** Monday, August 31, 2026<br>
+**Week:** 8 of 52<br>
 **Phase:** Classical ML and data<br>
-**Weekly focus:** Problem framing, targets, split design, baseline
+**Weekly focus:** Linear/logistic models and regularization
 
 ## Today’s session
 
-**Time:** 150 minutes<br>
-**Task:** Finish the project increment, write results, rehearse an interview answer, and complete the weekly review.
+**Time:** 15 minutes<br>
+**Task:** Plan the week: read the focus and required evidence, then reserve the study blocks.
 
 ## Required evidence this week
 
-Dataset card and frozen split
+Baseline training pipeline
 
 ## Check in
 
-[Open this week's check-in](https://github.com/samratdotm/ai-research-engineer-roadmap/issues/9)
+[Open this week's check-in](https://github.com/samratdotm/ai-research-engineer-roadmap/issues/10)
 
 ## Daily reminders
 
