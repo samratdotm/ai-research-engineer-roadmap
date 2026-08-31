@@ -2,8 +2,8 @@
 
 Automatically generated from GitHub issues labeled `roadmap-progress`.
 
-**Last activity:** 2026-08-24 07:57 Pacific<br>
-**Overall checklist completion:** 0/56 (0%)
+**Last activity:** 2026-08-31 00:00 Pacific<br>
+**Overall checklist completion:** 0/64 (0%)
 
 | Week | Focus | Completed | Progress | Status |
 |---|---|---:|---:|---|
@@ -14,6 +14,7 @@ Automatically generated from GitHub issues labeled `roadmap-progress`.
 | [Week 5](https://github.com/samratdotm/ai-research-engineer-roadmap/issues/7) | Probability, expectation, variance, sampling | 0/8 | 0% | In progress |
 | [Week 6](https://github.com/samratdotm/ai-research-engineer-roadmap/issues/8) | Confidence intervals and gradient descent | 0/8 | 0% | In progress |
 | [Week 7](https://github.com/samratdotm/ai-research-engineer-roadmap/issues/9) | Problem framing, targets, split design, baseline | 0/8 | 0% | In progress |
+| [Week 8](https://github.com/samratdotm/ai-research-engineer-roadmap/issues/10) | Linear/logistic models and regularization | 0/8 | 0% | In progress |
 
 ## How to update progress
 
