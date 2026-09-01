@@ -1,14 +1,14 @@
 # Today’s Roadmap
 
-**Date:** Monday, August 31, 2026<br>
+**Date:** Tuesday, September 1, 2026<br>
 **Week:** 8 of 52<br>
 **Phase:** Classical ML and data<br>
 **Weekly focus:** Linear/logistic models and regularization
 
 ## Today’s session
 
-**Time:** 15 minutes<br>
-**Task:** Plan the week: read the focus and required evidence, then reserve the study blocks.
+**Time:** 90 minutes<br>
+**Task:** Concepts and derivations: learn the week's core ideas and write a concise concept note.
 
 ## Required evidence this week
 
