@@ -1,22 +1,22 @@
 # Today’s Roadmap
 
-**Date:** Sunday, September 6, 2026<br>
-**Week:** 8 of 52<br>
+**Date:** Monday, September 7, 2026<br>
+**Week:** 9 of 52<br>
 **Phase:** Classical ML and data<br>
-**Weekly focus:** Linear/logistic models and regularization
+**Weekly focus:** Trees and ensembles
 
 ## Today’s session
 
-**Time:** 150 minutes<br>
-**Task:** Finish the project increment, write results, rehearse an interview answer, and complete the weekly review.
+**Time:** 15 minutes<br>
+**Task:** Plan the week: read the focus and required evidence, then reserve the study blocks.
 
 ## Required evidence this week
 
-Baseline training pipeline
+Model comparison with fixed protocol
 
 ## Check in
 
-[Open this week's check-in](https://github.com/samratdotm/ai-research-engineer-roadmap/issues/10)
+[Open this week's check-in](https://github.com/samratdotm/ai-research-engineer-roadmap/issues/11)
 
 ## Daily reminders
 
