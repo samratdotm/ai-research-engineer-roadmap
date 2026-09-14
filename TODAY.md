@@ -1,22 +1,22 @@
 # Today’s Roadmap
 
-**Date:** Sunday, September 13, 2026<br>
-**Week:** 9 of 52<br>
+**Date:** Monday, September 14, 2026<br>
+**Week:** 10 of 52<br>
 **Phase:** Classical ML and data<br>
-**Weekly focus:** Trees and ensembles
+**Weekly focus:** Metrics, thresholds, imbalance
 
 ## Today’s session
 
-**Time:** 150 minutes<br>
-**Task:** Finish the project increment, write results, rehearse an interview answer, and complete the weekly review.
+**Time:** 15 minutes<br>
+**Task:** Plan the week: read the focus and required evidence, then reserve the study blocks.
 
 ## Required evidence this week
 
-Model comparison with fixed protocol
+Metric/threshold decision memo
 
 ## Check in
 
-[Open this week's check-in](https://github.com/samratdotm/ai-research-engineer-roadmap/issues/11)
+[Open this week's check-in](https://github.com/samratdotm/ai-research-engineer-roadmap/issues/12)
 
 ## Daily reminders
 
