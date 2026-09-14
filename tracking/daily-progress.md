@@ -2,8 +2,8 @@
 
 Automatically generated from GitHub issues labeled `roadmap-progress`.
 
-**Last activity:** 2026-09-07 02:19 Pacific<br>
-**Overall checklist completion:** 0/72 (0%)
+**Last activity:** 2026-09-14 02:50 Pacific<br>
+**Overall checklist completion:** 0/80 (0%)
 
 | Week | Focus | Completed | Progress | Status |
 |---|---|---:|---:|---|
@@ -16,6 +16,7 @@ Automatically generated from GitHub issues labeled `roadmap-progress`.
 | [Week 7](https://github.com/samratdotm/ai-research-engineer-roadmap/issues/9) | Problem framing, targets, split design, baseline | 0/8 | 0% | In progress |
 | [Week 8](https://github.com/samratdotm/ai-research-engineer-roadmap/issues/10) | Linear/logistic models and regularization | 0/8 | 0% | In progress |
 | [Week 9](https://github.com/samratdotm/ai-research-engineer-roadmap/issues/11) | Trees and ensembles | 0/8 | 0% | In progress |
+| [Week 10](https://github.com/samratdotm/ai-research-engineer-roadmap/issues/12) | Metrics, thresholds, imbalance | 0/8 | 0% | In progress |
 
 ## How to update progress
 
