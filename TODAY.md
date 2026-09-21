@@ -1,22 +1,22 @@
 # Today’s Roadmap
 
-**Date:** Sunday, September 20, 2026<br>
-**Week:** 10 of 52<br>
+**Date:** Monday, September 21, 2026<br>
+**Week:** 11 of 52<br>
 **Phase:** Classical ML and data<br>
-**Weekly focus:** Metrics, thresholds, imbalance
+**Weekly focus:** Cross-validation, tuning, calibration
 
 ## Today’s session
 
-**Time:** 150 minutes<br>
-**Task:** Finish the project increment, write results, rehearse an interview answer, and complete the weekly review.
+**Time:** 15 minutes<br>
+**Task:** Plan the week: read the focus and required evidence, then reserve the study blocks.
 
 ## Required evidence this week
 
-Metric/threshold decision memo
+Calibrated model and reliability plot
 
 ## Check in
 
-[Open this week's check-in](https://github.com/samratdotm/ai-research-engineer-roadmap/issues/12)
+[Open this week's check-in](https://github.com/samratdotm/ai-research-engineer-roadmap/issues/13)
 
 ## Daily reminders
 
