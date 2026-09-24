@@ -1,6 +1,6 @@
 # Today’s Roadmap
 
-**Date:** Wednesday, September 23, 2026<br>
+**Date:** Thursday, September 24, 2026<br>
 **Week:** 11 of 52<br>
 **Phase:** Classical ML and data<br>
 **Weekly focus:** Cross-validation, tuning, calibration
@@ -8,7 +8,7 @@
 ## Today’s session
 
 **Time:** 90 minutes<br>
-**Task:** Guided implementation: implement the central mechanism with references available.
+**Task:** Independent implementation: reproduce or extend the mechanism without copying.
 
 ## Required evidence this week
 
