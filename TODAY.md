@@ -1,14 +1,14 @@
 # Today’s Roadmap
 
-**Date:** Saturday, September 26, 2026<br>
+**Date:** Sunday, September 27, 2026<br>
 **Week:** 11 of 52<br>
 **Phase:** Classical ML and data<br>
 **Weekly focus:** Cross-validation, tuning, calibration
 
 ## Today’s session
 
-**Time:** 180 minutes<br>
-**Task:** Phase project and experiment: build, test, and run one controlled comparison.
+**Time:** 150 minutes<br>
+**Task:** Finish the project increment, write results, rehearse an interview answer, and complete the weekly review.
 
 ## Required evidence this week
 
