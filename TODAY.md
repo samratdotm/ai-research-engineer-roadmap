@@ -1,22 +1,22 @@
 # Today’s Roadmap
 
-**Date:** Sunday, September 27, 2026<br>
-**Week:** 11 of 52<br>
+**Date:** Monday, September 28, 2026<br>
+**Week:** 12 of 52<br>
 **Phase:** Classical ML and data<br>
-**Weekly focus:** Cross-validation, tuning, calibration
+**Weekly focus:** Leakage, shift, failure slices
 
 ## Today’s session
 
-**Time:** 150 minutes<br>
-**Task:** Finish the project increment, write results, rehearse an interview answer, and complete the weekly review.
+**Time:** 15 minutes<br>
+**Task:** Plan the week: read the focus and required evidence, then reserve the study blocks.
 
 ## Required evidence this week
 
-Calibrated model and reliability plot
+ML Workbench report and phase interview
 
 ## Check in
 
-[Open this week's check-in](https://github.com/samratdotm/ai-research-engineer-roadmap/issues/13)
+[Open this week's check-in](https://github.com/samratdotm/ai-research-engineer-roadmap/issues/14)
 
 ## Daily reminders
 
