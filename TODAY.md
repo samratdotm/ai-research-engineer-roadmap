@@ -1,14 +1,14 @@
 # Today’s Roadmap
 
-**Date:** Monday, September 28, 2026<br>
+**Date:** Tuesday, September 29, 2026<br>
 **Week:** 12 of 52<br>
 **Phase:** Classical ML and data<br>
 **Weekly focus:** Leakage, shift, failure slices
 
 ## Today’s session
 
-**Time:** 15 minutes<br>
-**Task:** Plan the week: read the focus and required evidence, then reserve the study blocks.
+**Time:** 90 minutes<br>
+**Task:** Concepts and derivations: learn the week's core ideas and write a concise concept note.
 
 ## Required evidence this week
 
