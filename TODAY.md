@@ -1,14 +1,14 @@
 # Today’s Roadmap
 
-**Date:** Friday, October 2, 2026<br>
+**Date:** Saturday, October 3, 2026<br>
 **Week:** 12 of 52<br>
 **Phase:** Classical ML and data<br>
 **Weekly focus:** Leakage, shift, failure slices
 
 ## Today’s session
 
-**Time:** 30 minutes<br>
-**Task:** Recovery and review: close a small gap or rehearse the current concept aloud.
+**Time:** 180 minutes<br>
+**Task:** Phase project and experiment: build, test, and run one controlled comparison.
 
 ## Required evidence this week
 
