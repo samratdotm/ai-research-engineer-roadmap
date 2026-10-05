@@ -1,22 +1,22 @@
 # Today’s Roadmap
 
-**Date:** Sunday, October 4, 2026<br>
-**Week:** 12 of 52<br>
-**Phase:** Classical ML and data<br>
-**Weekly focus:** Leakage, shift, failure slices
+**Date:** Monday, October 5, 2026<br>
+**Week:** 13 of 52<br>
+**Phase:** Deep learning and PyTorch<br>
+**Weekly focus:** PyTorch tensors, datasets, loaders, modules
 
 ## Today’s session
 
-**Time:** 150 minutes<br>
-**Task:** Finish the project increment, write results, rehearse an interview answer, and complete the weekly review.
+**Time:** 15 minutes<br>
+**Task:** Plan the week: read the focus and required evidence, then reserve the study blocks.
 
 ## Required evidence this week
 
-ML Workbench report and phase interview
+End-to-end beginner training loop
 
 ## Check in
 
-[Open this week's check-in](https://github.com/samratdotm/ai-research-engineer-roadmap/issues/14)
+[Open this week's check-in](https://github.com/samratdotm/ai-research-engineer-roadmap/issues/15)
 
 ## Daily reminders
 
