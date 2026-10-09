@@ -1,14 +1,14 @@
 # Today’s Roadmap
 
-**Date:** Thursday, October 8, 2026<br>
+**Date:** Friday, October 9, 2026<br>
 **Week:** 13 of 52<br>
 **Phase:** Deep learning and PyTorch<br>
 **Weekly focus:** PyTorch tensors, datasets, loaders, modules
 
 ## Today’s session
 
-**Time:** 90 minutes<br>
-**Task:** Independent implementation: reproduce or extend the mechanism without copying.
+**Time:** 30 minutes<br>
+**Task:** Recovery and review: close a small gap or rehearse the current concept aloud.
 
 ## Required evidence this week
 
