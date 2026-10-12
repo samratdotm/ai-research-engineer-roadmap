@@ -1,22 +1,22 @@
 # Today’s Roadmap
 
-**Date:** Sunday, October 11, 2026<br>
-**Week:** 13 of 52<br>
+**Date:** Monday, October 12, 2026<br>
+**Week:** 14 of 52<br>
 **Phase:** Deep learning and PyTorch<br>
-**Weekly focus:** PyTorch tensors, datasets, loaders, modules
+**Weekly focus:** Forward pass, loss, autograd
 
 ## Today’s session
 
-**Time:** 150 minutes<br>
-**Task:** Finish the project increment, write results, rehearse an interview answer, and complete the weekly review.
+**Time:** 15 minutes<br>
+**Task:** Plan the week: read the focus and required evidence, then reserve the study blocks.
 
 ## Required evidence this week
 
-End-to-end beginner training loop
+Manual vs. PyTorch gradient comparison
 
 ## Check in
 
-[Open this week's check-in](https://github.com/samratdotm/ai-research-engineer-roadmap/issues/15)
+[Open this week's check-in](https://github.com/samratdotm/ai-research-engineer-roadmap/issues/16)
 
 ## Daily reminders
 
