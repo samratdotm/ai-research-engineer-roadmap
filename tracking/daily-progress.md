@@ -2,8 +2,8 @@
 
 Automatically generated from GitHub issues labeled `roadmap-progress`.
 
-**Last activity:** 2026-10-05 04:26 Pacific<br>
-**Overall checklist completion:** 0/104 (0%)
+**Last activity:** 2026-10-12 00:18 Pacific<br>
+**Overall checklist completion:** 0/112 (0%)
 
 | Week | Focus | Completed | Progress | Status |
 |---|---|---:|---:|---|
@@ -20,6 +20,7 @@ Automatically generated from GitHub issues labeled `roadmap-progress`.
 | [Week 11](https://github.com/samratdotm/ai-research-engineer-roadmap/issues/13) | Cross-validation, tuning, calibration | 0/8 | 0% | In progress |
 | [Week 12](https://github.com/samratdotm/ai-research-engineer-roadmap/issues/14) | Leakage, shift, failure slices | 0/8 | 0% | In progress |
 | [Week 13](https://github.com/samratdotm/ai-research-engineer-roadmap/issues/15) | PyTorch tensors, datasets, loaders, modules | 0/8 | 0% | In progress |
+| [Week 14](https://github.com/samratdotm/ai-research-engineer-roadmap/issues/16) | Forward pass, loss, autograd | 0/8 | 0% | In progress |
 
 ## How to update progress
 
