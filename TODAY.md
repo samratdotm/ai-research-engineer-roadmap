@@ -1,14 +1,14 @@
 # Today’s Roadmap
 
-**Date:** Monday, October 12, 2026<br>
+**Date:** Tuesday, October 13, 2026<br>
 **Week:** 14 of 52<br>
 **Phase:** Deep learning and PyTorch<br>
 **Weekly focus:** Forward pass, loss, autograd
 
 ## Today’s session
 
-**Time:** 15 minutes<br>
-**Task:** Plan the week: read the focus and required evidence, then reserve the study blocks.
+**Time:** 90 minutes<br>
+**Task:** Concepts and derivations: learn the week's core ideas and write a concise concept note.
 
 ## Required evidence this week
 
