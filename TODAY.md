@@ -1,14 +1,14 @@
 # Today’s Roadmap
 
-**Date:** Friday, October 16, 2026<br>
+**Date:** Saturday, October 17, 2026<br>
 **Week:** 14 of 52<br>
 **Phase:** Deep learning and PyTorch<br>
 **Weekly focus:** Forward pass, loss, autograd
 
 ## Today’s session
 
-**Time:** 30 minutes<br>
-**Task:** Recovery and review: close a small gap or rehearse the current concept aloud.
+**Time:** 180 minutes<br>
+**Task:** Phase project and experiment: build, test, and run one controlled comparison.
 
 ## Required evidence this week
 
