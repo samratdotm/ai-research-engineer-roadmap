@@ -1,22 +1,22 @@
 # Today’s Roadmap
 
-**Date:** Sunday, October 25, 2026<br>
-**Week:** 15 of 52<br>
+**Date:** Monday, October 26, 2026<br>
+**Week:** 16 of 52<br>
 **Phase:** Deep learning and PyTorch<br>
-**Weekly focus:** MLPs, activations, initialization
+**Weekly focus:** Optimizers and learning-rate schedules
 
 ## Today’s session
 
-**Time:** 150 minutes<br>
-**Task:** Finish the project increment, write results, rehearse an interview answer, and complete the weekly review.
+**Time:** 15 minutes<br>
+**Task:** Plan the week: read the focus and required evidence, then reserve the study blocks.
 
 ## Required evidence this week
 
-MLP experiment matrix
+SGD vs. Adam controlled comparison
 
 ## Check in
 
-[Open this week's check-in](https://github.com/samratdotm/ai-research-engineer-roadmap/issues/17)
+[Open this week's check-in](https://github.com/samratdotm/ai-research-engineer-roadmap/issues/18)
 
 ## Daily reminders
 
