@@ -1,14 +1,14 @@
 # Today’s Roadmap
 
-**Date:** Monday, October 26, 2026<br>
+**Date:** Tuesday, October 27, 2026<br>
 **Week:** 16 of 52<br>
 **Phase:** Deep learning and PyTorch<br>
 **Weekly focus:** Optimizers and learning-rate schedules
 
 ## Today’s session
 
-**Time:** 15 minutes<br>
-**Task:** Plan the week: read the focus and required evidence, then reserve the study blocks.
+**Time:** 90 minutes<br>
+**Task:** Concepts and derivations: learn the week's core ideas and write a concise concept note.
 
 ## Required evidence this week
 
